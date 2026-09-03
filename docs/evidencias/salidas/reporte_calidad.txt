@@ -1,0 +1,11 @@
+=== REPORTE METODOLÓGICO DE CALIDAD DE PLANES - GRUPO ABEL ===
+Objetivos del PGD analizados            : 3
+Declaran articulación con el PEI        : 3 (100%)
+Articulación VERIFICABLE en el texto    : 2 (67%)
+Con indicador                           : 2
+Con línea base                          : 1
+Con meta anual                          : 2
+Con proyectos asociados                 : 3
+
+Objetivos COMPLETOS (articulados, con indicador, línea base y meta): 1 de 3 (33%)
+Interpretación: El bajo porcentaje de objetivos completos expone que el plan tiene un alto riesgo de no poder ser auditado o evaluado de forma cuantitativa al cierre de su periodo fiscal (2028).
